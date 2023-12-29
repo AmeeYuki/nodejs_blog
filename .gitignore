@@ -1,7 +1,7 @@
 .vscode
 
 node_module/
-public/css/
+src/public/css/
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,expressionengine
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,expressionengine
